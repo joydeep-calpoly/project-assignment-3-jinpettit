@@ -34,13 +34,15 @@ class Main {
             e.printStackTrace();
         }
 
-        // Parse and print News API file
+        // Create a ParserVisitor
         ParserVisitor parserVisitor = new ParserVisitorImplementation();
 
+        // Define different source formats
         SourceFormat newsApiSource = new SourceFormat(SourceEnum.FILE, FormatEnum.NEWSAPI);
         SourceFormat simpleSource = new SourceFormat(SourceEnum.FILE, FormatEnum.SIMPLE);
         SourceFormat urlSource = new SourceFormat(SourceEnum.URL, FormatEnum.NEWSAPI);
 
+        // Parse and print the News API file, Simple format file, and URL
         parseAndPrint(newsApiSource, newsapiFile, parserVisitor);
         parseAndPrint(simpleSource, simpleFile, parserVisitor);
         parseAndPrint(urlSource, url, parserVisitor);
