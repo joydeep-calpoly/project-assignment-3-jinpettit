@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {"id": "source1", "name": "Source One"},
+      "author": "Author One",
+      "title": "Title One",
+      "description": "Description One",
+      "urlToImage": "http://example.com/image1.jpg",
+      "publishedAt": "2023-10-17T12:00:00Z",
+      "content": "Content of article one"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "description": "It's macOS 11 now, but the DNA is the same.",
+      "url": "https://arstechnica.com/gadgets/2021/03/its-been-20-years-since-the-launch-of-mac-os-x/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/Screen-Shot-2020-06-22-at-11.27.17-AM-2-1-760x380.png",
+      "publishedAt": "2021-03-24T21:44:01Z",
+      "content": "Enlarge/ When presenting a new path forward, Apple CEO Tim Cook put the ARM transition up with the Mac's other big transitions: PowerPC, MacOS X, and Intel.\r\n40 with 35 posters participating\r\nIt was … [+2618 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Rebecca Morin",
+      "title": "Vice President Kamala Harris to lead White House efforts to stem migration at the border - USA TODAY",
+      "description": "Vice President Kamala Harris will  work on establishing a partnership with Mexico and the northern triangle of Honduras, Guatemala and El Salvador.",
+      "url": "https://www.usatoday.com/story/news/politics/2021/03/24/kamala-harris-lead-biden-admin-stemming-migration-border/6984000002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/03/24/USAT/916b6cbc-bebc-4475-b510-4890de28baa7-GTY_1308935420.jpg?crop=5105,2872,x0,y0&width=3200&height=1680&fit=bounds",
+      "content": "The footage was released by the U.S. Customs and Border Protection as media has been denied access to border facilities.\r\nUSA TODAY\r\nWASHINGTON  As the Biden administration grapples with the growing … [+4575 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Matina Stevis-Gridneff",
+      "title": "With a Police Raid and the Threat of Export Curbs on Vaccines, the E.U. Plays Tough - The New York Times",
+      "description": "The bloc is tightening export rules in a bid to speed up its disappointing Covid inoculation campaign and stem political criticism.",
+      "publishedAt": "2021-03-24T21:25:40Z",
+      "content": "E.U. officials said the new rules would allow a degree of discretion, meaning they wont result in a blanket ban on exports, and the officials still expected many exports to continue.\r\nBut the measure… [+1113 chars]"
+    },
+    {
+      "source": {
+        "id": "test",
+        "name": "test"
+      },
+      "author": "test",
+      "title": "test",
+      "publishedAt": "test",
+      "url": "test",
+      "content": "test"
+    },
+    {
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "source": {"id": "source1", "name": "Source One"},
+  "author": "Author One",
+  "urlToImage": "http://example.com/image1.jpg",
+  "content": "Content of article one"
+}

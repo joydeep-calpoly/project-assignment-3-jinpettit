@@ -1,0 +1,12 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "title": "Title One",
+      "description": "Description One",
+      "url": "http://example.com/article1",
+      "publishedAt": "2023-10-17T12:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {"id": "source1", "name": "Source One"},
+      "title": "Title One",
+      "urlToImage": "http://example.com/image1.jpg",
+      "content": "Content of article one"
+    }
+  ]
+}
